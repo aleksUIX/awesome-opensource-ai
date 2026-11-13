@@ -48,6 +48,7 @@ Open source AI moves fast. This list tracks the projects that actually matter ri
 - **[browser-use](https://github.com/browser-use/browser-use)** ![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square&label=%20): The library that lets LLM agents drive a real web browser.
 - **[OpenHands](https://github.com/OpenHands/OpenHands)** ![GitHub stars](https://img.shields.io/github/stars/OpenHands/OpenHands?style=flat-square&label=%20): Open-source autonomous coding-agent platform, formerly OpenDevin.
 - **[smolagents](https://github.com/huggingface/smolagents)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/smolagents?style=flat-square&label=%20): Hugging Face's minimalist library for agents that write and execute code instead of JSON tool calls.
+- **[Orkas](https://github.com/Orkas-AI/Orkas)** ![GitHub stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=flat-square&label=%20): Local-first desktop AI workspace that coordinates specialist agents for research, coding, documents, and media.
 
 ## Agent Memory
 
